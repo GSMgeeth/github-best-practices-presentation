@@ -38,4 +38,3 @@
 - The release frequency of the product should be controlled.
 - If not actually necessary, frequent releases should be avoided and should make production releases only after QA tests are done in development and qa environments and through staging branch.
 - Hotfixes are okay to be directly commited to production branches but always keep them synced with default branch where all developers get their updates from.
-
