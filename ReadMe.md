@@ -7,6 +7,6 @@
 
 ## Branching
 ### Creating | Naming | Syncing | Merging
-- Let's follow the name-template ___<ID>-shortened-title___ (_ex: 3645-patient-info-update, 7738-report-print-bugfix_)
+- Let's follow the template ___\<ID\>-shortened-title___ (_ex: 3645-patient-info-update, 7738-report-print-bugfix_)
 - Create branches directly from the default branch (in HMIS it's development branch)
 - 
